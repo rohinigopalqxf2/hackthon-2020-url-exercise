@@ -1,0 +1,68 @@
+{
+  "1": {
+    "question": "How do you access n'th pull for `a repository` for a particular `user-name`?\n(a)https://github.com/{repo-name}/{user-name}/pull/n\n(b)https://github.com/{repo-name}/{user-name}/pull=n \n(c)https://github.com/{user-name}/{repo-name}/pull=n\n(d)https://github.com/{user-name}/{repo-name}/pull/n\n",
+    "answer": "d",
+    "more_info": "observe  URL's carefully ",
+    "user_response": "None"
+  },
+  "2": {
+    "question": "How do you access closed issues in the git hub for a particular user and repository?\n(a)https://github.com/{user-name}/{repo-name}/issues?q=is%3Aissue+is%3Aclosed\n(b)https://github.com/{user-name}/{repo-name}/issues?q=closed\n(c)https://github.com/{user-name}/{repo-name}/issues?q=is%3Aclosed+is%3Aissue\n(d)None of the above\n",
+    "answer": "a",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "3": {
+    "question": "If I want to access python community in reddit, which is the correct option?\n(a)https://www.reddit.com/search/?q=python\n(b)https://www.reddit.com/r/Python/\n(c)https://www.reddit.com/search/?r=python\n(d)None of the above\n",
+    "answer": "b",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "4": {
+    "question": "If I want to access all the comments for the `learnpython` on reddit how should I access it.\n(a)https://www.reddit.com/r/?comments=learnpython\n(b)https://www.reddit.com/r/comments/learnpython/\n(c)None of the above\n(d)https://www.reddit.com/r/learnpython/comments/\n",
+    "answer": "d",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "5": {
+    "question": "If you want access all comments by a particular user in the reddit then which is the correct option.\n(a)https://www.reddit.com/user/{Username}/comments/\n(b)https://www.reddit.com/u/{Username}/comments/\n(c)Both of the above\n(d)None of the above\n",
+    "answer": "c",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "6": {
+    "question": "If https://www.google.com/search?q=info%3Anytimes.com&oq=info%3Anytimes.com gives me serach results associated with New Yoork times.com, which of the following will give me an option to get serach results for Washington Post.com \n(a)https://www.google.com/search?q=info%3Awashington+post.com&oq=info%3Awashington+post.com\n(b)https://www.google.com/search?q=info%3Awashingtonpost.com&oq=info%3Awashingtonpost.com\n(c)Both of the above\n(d)None of the above\n",
+    "answer": "c",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "7": {
+    "question": "If https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox gives me access to my emails in the inbox then which of the following gives me access to the sent items-\n(a)https://mail.google.com/mail/u/0/?tab=rm&dgbl#sent\n(b)https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent\n(c)https://mail.google.com/mail/u/0/?tab=rm&ogbl#Sent\n(d)either a or c\n",
+    "answer": "b",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "8": {
+    "question": "If https://stackoverflow.com/search?q=dynamic+table+with+python gives me serach results for dynamic table with python, now I want to serach can't conctat string to byte then which is the correct search string from below-\n(a)https://stackoverflow.com/search?q=cant+concat+string+to+byte\n(b)https://stackoverflow.com/search?q=can%27t+concat+string+to+byte\n(c)Either a or b as both will give same results\n(d)None of the above\n",
+    "answer": "b",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "9": {
+    "question": "If GET /1/boards/{id}/memberships gets the information about the membership users have on the trello board, which of the below request gets a board \n(a)GET /1/boards/memberships \n(b)GET /boards/{id}/memberships\n(c)POST /1/boards/{id}\n(d)GET /1/boards/{id}\n",
+    "answer": "d",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "10": {
+    "question": "Which is a good URL end point \n(a)GET /1/boards/cards/{id}/{idCard} \n(b)GET /1/boards/{id}/cards/{idCard}\n(c)GET /1/cards/{idCard}/boards/{id}}\n(d)GET /1/cards/boards/{idCard}/{id}}\n",
+    "answer": "b",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "11": {
+    "question": "I am on trello card- https://trello.com/b/Zbz6jfcw/287-cassiopeia-22-june-2020? I have created new trello card with the name 288-hackthon-15-july-2020, which of the following is correct url to access the card\n(a)https://trello.com/c/{some string combination}/288-hackthon-15-july-2020\n(b)https://trello.com/b/{some string combination}/288-hackthon-15-july-2020\n(c)https://trello.com/b/Zbz6jfcw/288-hackthon-15-july-2020\n(d)https://trello.com/c/Zbz6jfcw/288-hackthon-15-july-2020\n",
+    "answer": "b",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  }
+}
