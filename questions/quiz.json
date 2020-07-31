@@ -1,66 +1,60 @@
 {
   "1": {
-    "question": "How do you access n'th pull for `a repository` for a particular `user-name`?\n(a)https://github.com/{repo-name}/{user-name}/pull/n\n(b)https://github.com/{repo-name}/{user-name}/pull=n \n(c)https://github.com/{user-name}/{repo-name}/pull=n\n(d)https://github.com/{user-name}/{repo-name}/pull/n\n",
-    "answer": "d",
+    "question": " In case, https://abc.com/qxf2/qxf2-page-object-model/actions?query=workflow%3A%22Mark+stale+issues+and+pull+requests%22? gives me access to action workflow-'Mark Stale issues and pull' then how I will access wokflow- Build Redme and deploy dataset for test user and test repository\n(a)https://abc.com/test/test/actions?query=workflow%3A%22Mark+stale+issues+and+pull+requests%22?\n(b)https://abc.com/test/test/actions?query=workflow%3A%22Build+Redme+and+deploy+dataset%22?\n(c)https://abc.com/qxf2/qxf2-page-object-model/actions?query=workflow%3A%22Build+Redme+and+deploy+dataset%22?\n(d)https://abc.com/qxf2/test/actions?query=workflow%3A%22Build+Redme+and+deploy+dataset%22?\n",
+    "answer": "b",
     "more_info": "observe  URL's carefully ",
     "user_response": "None"
   },
   "2": {
-    "question": "How do you access closed issues in the git hub for a particular user and repository?\n(a)https://github.com/{user-name}/{repo-name}/issues?q=is%3Aissue+is%3Aclosed\n(b)https://github.com/{user-name}/{repo-name}/issues?q=closed\n(c)https://github.com/{user-name}/{repo-name}/issues?q=is%3Aclosed+is%3Aissue\n(d)None of the above\n",
-    "answer": "a",
-    "more_info": "observe  URL's carefully",
-    "user_response": "None"
-  },
-  "3": {
-    "question": "If I want to access python community in reddit, which is the correct option?\n(a)https://www.reddit.com/search/?q=python\n(b)https://www.reddit.com/r/Python/\n(c)https://www.reddit.com/search/?r=python\n(d)None of the above\n",
-    "answer": "b",
-    "more_info": "observe  URL's carefully",
-    "user_response": "None"
-  },
-  "4": {
-    "question": "If I want to access all the comments for the `learnpython` on reddit how should I access it.\n(a)https://www.reddit.com/r/?comments=learnpython\n(b)https://www.reddit.com/r/comments/learnpython/\n(c)None of the above\n(d)https://www.reddit.com/r/learnpython/comments/\n",
+    "question": "https://abc.com/cost-management/home#/savings-plans/recommendations?spType=COMPUTE_SP&lookbackPeriodInDays=THIRTY_DAYS&termInYears=ONE_YEAR&paymentOption=ALL_UPFRONT&sortKey=instanceFamily&sortOrder=Asc&filter=%5B%5D&scope=LINKED?- When I hit this URL this gives me access to my saving plans where current saving plan is Compute, based on past 30 days for plan term of 1 year and I make all payment upfront now I want to quickly search my another 3-year saving plan for EC2 Instance, where payment option is no upfront and which is calculated based on past 7 days.\n(a)https://abc.com/cost-management/home#/savings-plans/recommendations?spType=EC2_INSTANCE_SP&lookbackPeriodInDays=7_DAYS&termInYears=3_YEAR&paymentOption=NO_UPFRONT&sortKey=instanceFamily&sortOrder=Asc&filter=%5B%5D&scope=LINKED?\n(b)https://abc.com/cost-management/home#/savings-plans/recommendations?spType=EC2_INSTANCE_SP&lookbackPeriodInDays=SEVEN_DAYS&termInYears=3_YEAR&paymentOption=NO_UPFRONT&sortKey=instanceFamily&sortOrder=Asc&filter=%5B%5D&scope=LINKED?\n(c)https://abc.com/cost-management/home#/savings-plans/recommendations?spType=EC2_INSTANCE_SP&lookbackPeriodInDays=7_DAYS&termInYears=THREE_YEAR&paymentOption=NO_UPFRONT&sortKey=instanceFamily&sortOrder=Asc&filter=%5B%5D&scope=LINKED?\n(d)https://abc.com/cost-management/home#/savings-plans/recommendations?spType=EC2_INSTANCE_SP&lookbackPeriodInDays=SEVEN_DAYS&termInYears=THREE_YEAR&paymentOption=NO_UPFRONT&sortKey=instanceFamily&sortOrder=Asc&filter=%5B%5D&scope=LINKED?\n",
     "answer": "d",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
+  "3": {
+    "question": "https://abc.com/cost-management/home?#/savings-plans/overview? This gives access overview of saving plans, now how should I access overview of Utilisation report then how should I access it\n(a)https://abc.com/cost-management/home?#/utilisation-report/overview?\n(b)https://abc.com/cost-management/home?#/overview/utilisation-report?\n(c)https://abc.com/cost-management/savings-plans?#/home/overview?\n(d)https://abc.com/cost-management/savings-plans?#/overview/home?\n",
+    "answer": "a",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "4": {
+    "question": "https://www.abc.com/search?q=brownie+recipe+-milk gives brownie recipe without milk, if I want to find cake receipe without milk and eggs how should I search it\n(a)https://www.abc.com/search?q=brownie+recipe+-milk+-eggs\n(b)None of the above\n(c)https://www.abc.com/search?q=cake+recipe+-milk+-eggs\n(d)Both of the above\n",
+    "answer": "c",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
   "5": {
-    "question": "If you want access all comments by a particular user in the reddit then which is the correct option.\n(a)https://www.reddit.com/user/{Username}/comments/\n(b)https://www.reddit.com/u/{Username}/comments/\n(c)Both of the above\n(d)None of the above\n",
+    "question": "If https://www.abc.com/search?q=info%3Anytimes.com&oq=info%3Anytimes.com gives me serach results associated with New Yoork times.com, which of the following will give me an option to get serach results for Washington Post.com \n(a)https://www.abc.com/search?q=info%3Awashington+post.com&oq=info%3Awashington+post.com\n(b)https://www.abc.com/search?q=info%3Awashingtonpost.com&oq=info%3Awashingtonpost.com\n(c)Both of the above\n(d)None of the above\n",
     "answer": "c",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
   "6": {
-    "question": "If https://www.google.com/search?q=info%3Anytimes.com&oq=info%3Anytimes.com gives me serach results associated with New Yoork times.com, which of the following will give me an option to get serach results for Washington Post.com \n(a)https://www.google.com/search?q=info%3Awashington+post.com&oq=info%3Awashington+post.com\n(b)https://www.google.com/search?q=info%3Awashingtonpost.com&oq=info%3Awashingtonpost.com\n(c)Both of the above\n(d)None of the above\n",
-    "answer": "c",
-    "more_info": "observe  URL's carefully",
-    "user_response": "None"
-  },
-  "7": {
-    "question": "If https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox gives me access to my emails in the inbox then which of the following gives me access to the sent items-\n(a)https://mail.google.com/mail/u/0/?tab=rm&dgbl#sent\n(b)https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent\n(c)https://mail.google.com/mail/u/0/?tab=rm&ogbl#Sent\n(d)either a or c\n",
+    "question": "If https://mail.abc.com/mail/u/0/?tab=rm&ogbl#inbox gives me access to my emails in the inbox then which of the following gives me access to the sent items-\n(a)https://mail.abc.com/mail/u/0/?tab=rm&dgbl#sent\n(b)https://mail.abc.com/mail/u/0/?tab?=rm&ogbl#sent\n(c)https://mail.abc.com/mail/u/0/tab?=rm&ogbl#sent\n(d)either a or b\n",
     "answer": "b",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
   "8": {
-    "question": "If https://stackoverflow.com/search?q=dynamic+table+with+python gives me serach results for dynamic table with python, now I want to serach can't conctat string to byte then which is the correct search string from below-\n(a)https://stackoverflow.com/search?q=cant+concat+string+to+byte\n(b)https://stackoverflow.com/search?q=can%27t+concat+string+to+byte\n(c)Either a or b as both will give same results\n(d)None of the above\n",
+    "question": "If https://abc.com/search?q=dynamic+table+with+python gives me serach results for dynamic table with python, now I want to serach can't conctat string to byte then which is the correct search string from below-\n(a)https://abc.com/search?q=can't+concat+string+to+byte\n(b)https://abc.com/search?q=can%27t%20concat%20string%20to%20byte\n(c)Either a or b as both will give same results\n(d)None of the above\n",
     "answer": "b",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
   "9": {
-    "question": "If GET /1/boards/{id}/memberships gets the information about the membership users have on the trello board, which of the below request gets a board \n(a)GET /1/boards/memberships \n(b)GET /boards/{id}/memberships\n(c)POST /1/boards/{id}\n(d)GET /1/boards/{id}\n",
-    "answer": "d",
+    "question": "if https://ap16.classic.com/home/home.jsp?source=classic gives me access to the classic mode of application how I will access lightening mode of the application \n(a)https://ap16.lightning.com/home/home.jsp?source=lightning \n(b)https://ap16.classic.com/home/homehome.jsp?source=lightening (c)https://ap16.lightening.com/home/homehome.jsp?source=classic\n(d)None of the above\n",
+    "answer": "a",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
   "10": {
-    "question": "Which is a good URL end point \n(a)GET /1/boards/cards/{id}/{idCard} \n(b)GET /1/boards/{id}/cards/{idCard}\n(c)GET /1/cards/{idCard}/boards/{id}}\n(d)GET /1/cards/boards/{idCard}/{id}}\n",
-    "answer": "b",
+    "question": "I am accessing test environment using https://my-domain/cit-c/webseal.troy.com where cit is component integration,sit is system intgration, oat operation acceptance testing , c is environment used by testing team,d is dev environment, e is uat environment, troy is an application name. Now I want to access athens application on dev environment used for system intgration then how should I access it \n(a)https://my-domain/cit-d/webseal.athens.com \n(b)https://my-domain/sit-d/webseal.troy.com\n(c)https://my-domain/sit-d/webseal.athens.com\n(d)https://my-domain/sit-c/webseal.athens.com\n",
+    "answer": "c",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
   "11": {
-    "question": "I am on trello card- https://trello.com/b/Zbz6jfcw/287-cassiopeia-22-june-2020? I have created new trello card with the name 288-hackthon-15-july-2020, which of the following is correct url to access the card\n(a)https://trello.com/c/{some string combination}/288-hackthon-15-july-2020\n(b)https://trello.com/b/{some string combination}/288-hackthon-15-july-2020\n(c)https://trello.com/b/Zbz6jfcw/288-hackthon-15-july-2020\n(d)https://trello.com/c/Zbz6jfcw/288-hackthon-15-july-2020\n",
+    "question": "I am on board card- https://board.com/board/22-jun-2020/287-cassiopeia-22-june-2020? which was created on 22-june-2020, I have created new board card with the name 288-hackthon-15-july-2020, on 15-july-2020 which of the following is correct url to access the card\n(a)https://board.com/b/15-july-2020/288-hackthon-15-july-2020\n(b)https://board.com/board/15-july-2020/288-hackthon-15-july-2020\n(c)https://board.com/board/22-jun-2020/288-hackthon-15-july-2020\n(d)https://board.com/22-jun-2020/288-hackthon-15-july-2020\n",
     "answer": "b",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
