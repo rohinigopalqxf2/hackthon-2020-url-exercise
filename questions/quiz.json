@@ -1,60 +1,114 @@
 {
   "1": {
-    "question": " In case, https://abc.com/qxf2/qxf2-page-object-model/actions?query=workflow%3A%22Mark+stale+issues+and+pull+requests%22? gives me access to action workflow-'Mark Stale issues and pull' then how I will access wokflow- Build Redme and deploy dataset for test user and test repository\n(a)https://abc.com/test/test/actions?query=workflow%3A%22Mark+stale+issues+and+pull+requests%22?\n(b)https://abc.com/test/test/actions?query=workflow%3A%22Build+Redme+and+deploy+dataset%22?\n(c)https://abc.com/qxf2/qxf2-page-object-model/actions?query=workflow%3A%22Build+Redme+and+deploy+dataset%22?\n(d)https://abc.com/qxf2/test/actions?query=workflow%3A%22Build+Redme+and+deploy+dataset%22?\n",
+    "question": " In case, https://qxf2.com/qxf2/qxf2-page-object-model/actions?query=workflow%3A%22Mark+stale+issues+and+pull+requests%22? gives me access to action workflow-'Mark Stale issues and pull' then how I will access wokflow- Build Redme and deploy dataset for test user and test repository\n(a)https://qxf2.com/test/test/actions?query=workflow%3A%22Mark+stale+issues+and+pull+requests%22?\n(b)https://qxf2.com/test/test/actions?query=workflow%3A%22Build+Redme+and+deploy+dataset%22?\n(c)https://qxf2.com/qxf2/qxf2-page-object-model/actions?query=workflow%3A%22Build+Redme+and+deploy+dataset%22?\n(d)https://qxf2.com/qxf2/test/actions?query=workflow%3A%22Build+Redme+and+deploy+dataset%22?\n",
     "answer": "b",
     "more_info": "observe  URL's carefully ",
     "user_response": "None"
   },
   "2": {
-    "question": "https://abc.com/cost-management/home#/savings-plans/recommendations?spType=COMPUTE_SP&lookbackPeriodInDays=THIRTY_DAYS&termInYears=ONE_YEAR&paymentOption=ALL_UPFRONT&sortKey=instanceFamily&sortOrder=Asc&filter=%5B%5D&scope=LINKED?- When I hit this URL this gives me access to my saving plans where current saving plan is Compute, based on past 30 days for plan term of 1 year and I make all payment upfront now I want to quickly search my another 3-year saving plan for EC2 Instance, where payment option is no upfront and which is calculated based on past 7 days.\n(a)https://abc.com/cost-management/home#/savings-plans/recommendations?spType=EC2_INSTANCE_SP&lookbackPeriodInDays=7_DAYS&termInYears=3_YEAR&paymentOption=NO_UPFRONT&sortKey=instanceFamily&sortOrder=Asc&filter=%5B%5D&scope=LINKED?\n(b)https://abc.com/cost-management/home#/savings-plans/recommendations?spType=EC2_INSTANCE_SP&lookbackPeriodInDays=SEVEN_DAYS&termInYears=3_YEAR&paymentOption=NO_UPFRONT&sortKey=instanceFamily&sortOrder=Asc&filter=%5B%5D&scope=LINKED?\n(c)https://abc.com/cost-management/home#/savings-plans/recommendations?spType=EC2_INSTANCE_SP&lookbackPeriodInDays=7_DAYS&termInYears=THREE_YEAR&paymentOption=NO_UPFRONT&sortKey=instanceFamily&sortOrder=Asc&filter=%5B%5D&scope=LINKED?\n(d)https://abc.com/cost-management/home#/savings-plans/recommendations?spType=EC2_INSTANCE_SP&lookbackPeriodInDays=SEVEN_DAYS&termInYears=THREE_YEAR&paymentOption=NO_UPFRONT&sortKey=instanceFamily&sortOrder=Asc&filter=%5B%5D&scope=LINKED?\n",
+    "question": "https://qxf2.com/cost-management/home#/savings-plans/recommendations?spType=COMPUTE_SP&lookbackPeriodInDays=THIRTY_DAYS&termInYears=ONE_YEAR&paymentOption=ALL_UPFRONT&sortKey=instanceFamily&sortOrder=Asc&filter=%5B%5D&scope=LINKED?- When I hit this URL this gives me access to my saving plans where current saving plan is Compute, based on past 30 days for plan term of 1 year and I make all payment upfront now I want to quickly search my another 3-year saving plan for EC2 Instance, where payment option is no upfront and which is calculated based on past 7 days.\n(a)https://qxf2.com/cost-management/home#/savings-plans/recommendations?spType=EC2_INSTANCE_SP&lookbackPeriodInDays=7_DAYS&termInYears=3_YEAR&paymentOption=NO_UPFRONT&sortKey=instanceFamily&sortOrder=Asc&filter=%5B%5D&scope=LINKED?\n(b)https://qxf2.com/cost-management/home#/savings-plans/recommendations?spType=EC2_INSTANCE_SP&lookbackPeriodInDays=SEVEN_DAYS&termInYears=3_YEAR&paymentOption=NO_UPFRONT&sortKey=instanceFamily&sortOrder=Asc&filter=%5B%5D&scope=LINKED?\n(c)https://qxf2.com/cost-management/home#/savings-plans/recommendations?spType=EC2_INSTANCE_SP&lookbackPeriodInDays=7_DAYS&termInYears=THREE_YEAR&paymentOption=NO_UPFRONT&sortKey=instanceFamily&sortOrder=Asc&filter=%5B%5D&scope=LINKED?\n(d)https://qxf2.com/cost-management/home#/savings-plans/recommendations?spType=EC2_INSTANCE_SP&lookbackPeriodInDays=SEVEN_DAYS&termInYears=THREE_YEAR&paymentOption=NO_UPFRONT&sortKey=instanceFamily&sortOrder=Asc&filter=%5B%5D&scope=LINKED?\n",
     "answer": "d",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
   "3": {
-    "question": "https://abc.com/cost-management/home?#/savings-plans/overview? This gives access overview of saving plans, now how should I access overview of Utilisation report then how should I access it\n(a)https://abc.com/cost-management/home?#/utilisation-report/overview?\n(b)https://abc.com/cost-management/home?#/overview/utilisation-report?\n(c)https://abc.com/cost-management/savings-plans?#/home/overview?\n(d)https://abc.com/cost-management/savings-plans?#/overview/home?\n",
+    "question": "https://qxf2.com/cost-management/home?#/savings-plans/overview? This gives access overview of saving plans, now how should I access overview of Utilisation report then how should I access it\n(a)https://qxf2.com/cost-management/home?#/utilisation-report/overview?\n(b)https://qxf2.com/cost-management/home?#/overview/utilisation-report?\n(c)https://qxf2.com/cost-management/savings-plans?#/home/overview?\n(d)https://qxf2.com/cost-management/savings-plans?#/overview/home?\n",
     "answer": "a",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
   "4": {
-    "question": "https://www.abc.com/search?q=brownie+recipe+-milk gives brownie recipe without milk, if I want to find cake receipe without milk and eggs how should I search it\n(a)https://www.abc.com/search?q=brownie+recipe+-milk+-eggs\n(b)None of the above\n(c)https://www.abc.com/search?q=cake+recipe+-milk+-eggs\n(d)Both of the above\n",
+    "question": "https://www.qxf2.com/search?q=brownie+recipe+-milk gives brownie recipe without milk, if I want to find cake receipe without milk and eggs how should I search it\n(a)https://www.qxf2.com/search?q=brownie+recipe+-milk+-eggs\n(b)None of the above\n(c)https://www.qxf2.com/search?q=cake+recipe+-milk+-eggs\n(d)Both of the above\n",
     "answer": "c",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
   "5": {
-    "question": "If https://www.abc.com/search?q=info%3Anytimes.com&oq=info%3Anytimes.com gives me serach results associated with New Yoork times.com, which of the following will give me an option to get serach results for Washington Post.com \n(a)https://www.abc.com/search?q=info%3Awashington+post.com&oq=info%3Awashington+post.com\n(b)https://www.abc.com/search?q=info%3Awashingtonpost.com&oq=info%3Awashingtonpost.com\n(c)Both of the above\n(d)None of the above\n",
+    "question": "If https://www.qxf2.com/search?q=info%3Anytimes.com&oq=info%3Anytimes.com gives me serach results associated with New Yoork times.com, which of the following will give me an option to get serach results for Washington Post.com \n(a)https://www.qxf2.com/search?q=info%3Awashington+post.com&oq=info%3Awashington+post.com\n(b)https://www.qxf2.com/search?q=info%3Awashingtonpost.com&oq=info%3Awashingtonpost.com\n(c)Both of the above\n(d)None of the above\n",
     "answer": "c",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
   "6": {
-    "question": "If https://mail.abc.com/mail/u/0/?tab=rm&ogbl#inbox gives me access to my emails in the inbox then which of the following gives me access to the sent items-\n(a)https://mail.abc.com/mail/u/0/?tab=rm&dgbl#sent\n(b)https://mail.abc.com/mail/u/0/?tab?=rm&ogbl#sent\n(c)https://mail.abc.com/mail/u/0/tab?=rm&ogbl#sent\n(d)either a or b\n",
+    "question": "If https://mail.qxf2.com/mail/u/0/?tab=rm&ogbl#inbox gives me access to my emails in the inbox then which of the following gives me access to the sent items-\n(a)https://mail.qxf2.com/mail/u/0/?tab=rm&dgbl#sent\n(b)https://mail.qxf2.com/mail/u/0/?tab?=rm&ogbl#sent\n(c)https://mail.qxf2.com/mail/u/0/tab?=rm&ogbl#sent\n(d)either a or b\n",
     "answer": "b",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
   "8": {
-    "question": "If https://abc.com/search?q=dynamic+table+with+python gives me serach results for dynamic table with python, now I want to serach can't conctat string to byte then which is the correct search string from below-\n(a)https://abc.com/search?q=can't+concat+string+to+byte\n(b)https://abc.com/search?q=can%27t%20concat%20string%20to%20byte\n(c)Either a or b as both will give same results\n(d)None of the above\n",
+    "question": "If https://qxf2.com/search?q=dynamic+table+with+python gives me serach results for dynamic table with python, now I want to serach can't conctat string to byte then which is the correct search string from below-\n(a)https://qxf2.com/search?q=can't+concat+string+to+byte\n(b)https://qxf2.com/search?q=can%27t%20concat%20string%20to%20byte\n(c)Either a or b as both will give same results\n(d)None of the above\n",
     "answer": "b",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
   "9": {
-    "question": "if https://ap16.classic.com/home/home.jsp?source=classic gives me access to the classic mode of application how I will access lightening mode of the application \n(a)https://ap16.lightning.com/home/home.jsp?source=lightning \n(b)https://ap16.classic.com/home/homehome.jsp?source=lightening (c)https://ap16.lightening.com/home/homehome.jsp?source=classic\n(d)None of the above\n",
+    "question": "if https://qxf2.classic.com/home/home.jsp?source=classic gives me access to the classic mode of application how I will access lightening mode of the application \n(a)https://qxf2.lightning.com/home/home.jsp?source=lightning \n(b)https://qxf2.classic.com/home/homehome.jsp?source=lightening (c)https://qxf2.lightening.com/home/homehome.jsp?source=classic\n(d)None of the above\n",
     "answer": "a",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
   "10": {
-    "question": "I am accessing test environment using https://my-domain/cit-c/webseal.troy.com where cit is component integration,sit is system intgration, oat operation acceptance testing , c is environment used by testing team,d is dev environment, e is uat environment, troy is an application name. Now I want to access athens application on dev environment used for system intgration then how should I access it \n(a)https://my-domain/cit-d/webseal.athens.com \n(b)https://my-domain/sit-d/webseal.troy.com\n(c)https://my-domain/sit-d/webseal.athens.com\n(d)https://my-domain/sit-c/webseal.athens.com\n",
+    "question": "I am accessing test environment using https://qxf2/cit-c/webseal.troy.com where cit is component integration,sit is system intgration, oat operation acceptance testing , c is environment used by testing team,d is dev environment, e is uat environment, troy is an application name. Now I want to access athens application on dev environment used for system intgration then how should I access it \n(a)https://qxf2/cit-d/webseal.athens.com \n(b)https://qxf2/sit-d/webseal.troy.com\n(c)https://qxf2/sit-d/webseal.athens.com\n(d)https://qxf2/sit-c/webseal.athens.com\n",
     "answer": "c",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
   "11": {
-    "question": "I am on board card- https://board.com/board/22-jun-2020/287-cassiopeia-22-june-2020? which was created on 22-june-2020, I have created new board card with the name 288-hackthon-15-july-2020, on 15-july-2020 which of the following is correct url to access the card\n(a)https://board.com/b/15-july-2020/288-hackthon-15-july-2020\n(b)https://board.com/board/15-july-2020/288-hackthon-15-july-2020\n(c)https://board.com/board/22-jun-2020/288-hackthon-15-july-2020\n(d)https://board.com/22-jun-2020/288-hackthon-15-july-2020\n",
+    "question": "I have 20 issues per page and I access first 20 issues using https://qxf2.com/manual/qxf2/qxf2-page-object-model/issues?source=app&step=20 now I want access issues from 60 to 80 quickly, which link I should select \n(a)https://qxf2.com/manual/qxf2-page-object-model/issues?source=app&step=60 \n(b)https://qxf2.com/manual/qxf2/qxf2-page-object-model/issues?source=app&step=60\n(c)https://qxf2.com/manual/qxf2/issues?source=app&step=60\n(d)https://qxf2.com/manual/qxf2/qxf2-page-object-model/issues?source=app&step=60 to 80\n",
+    "answer": "b",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "12": {
+    "question": "I am accessing blogs of category continious testing accessing https://qxf2.com/category/blogs/continuous-testing/ now, I want to access blogs from category devops I should used which of the following: \n(a)https://qxf2.com/category/blogs/devops \n(b)https://qxf2.com/blogs/category/devops\n(c)https://qxf2.com/devops/blogs/category\n(d)https://qxf2.com/blogs/devops\n",
+    "answer": "a",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "13": {
+    "question": "If I access group1 meeting using http://qxf2.do/qxf2-group-1 how can I access group 3 meeting then- \n(a)http://qxf2.do/qxf3-group-3 \n(b)http://qxf2.do/qxf2-group-3\n(c)http://qxf3.do/qxf2-group-1\n(d)http://qxf1.do/qxf2-group-3\n",
+    "answer": "b",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "14": {
+    "question": "If I access, how to run tests as -https://qxf2.com/qxf2/qxf2-page-object-model/wiki/Quick-Start-Guide#how-to-run-tests, now I want to access Gmail under Utilities at wiki root, how I will access the same \n(a)https://qxf2.com/qxf2/qxf2-page-object-model/Utilities#gmails \n(b)https://qxf2.com/qxf2/qxf2-page-object-model/Utilities/wiki#gmail\n(c)https://qxf2.com/qxf2/qxf2-page-object-model/wiki/gmail#Utilities\n(d)https://qxf2.com/qxf2/qxf2-page-object-model/wiki/Utilities#gmail\n",
+    "answer": "d",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "15": {
+    "question": "https://qxf2.com/quizes/py_final-quiz/?dttype=viewquiz gives me view access to the particular quiz now I want to view certificates final_certificate, how should I access it? \n(a)https://qxf2.com/quizes/py_final-quiz/?dttype=viewcertificate \n(b)https://qxf2.com/certificates/final_certificate/?dttype=viewcertificate \n(c)https://qxf2.com/quizes/final_certificate/?dttype=viewcertificate\n(d) None of the above\n",
+    "answer": "b",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "16": {
+    "question": "I am accessing chess articless using https://www.qxf2.in/popular/sports/ch:chess if I want to access articles on cricket, I should access it as- \n (a)www.qxf2.in/popular/sports/cricket \n(b)https://www.qxf2.in/popular/sports/cr:cricket \n(c)https://www.qxf2.in/sports/cr:cricket\n(d) None of the above\n",
+    "answer": "b",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "17": {
+    "question": "This https://www.qxf2.in/news/t:education/q:enginnering/computerscience gives access on the news on computer science, now if I want to access news in F1 which is motorport in sports category, how should I access it-  \n(a)https://www.qxf2.in/news/t:f1/q:motorsports/sports \n(b)https://www.qxf2.in/news/t:sports/q:f1/motorsports\n(c)None of the above\n(d)https://www.qxf2.in/news/t:sports/q:motorsports/f1\n",
+    "answer": "d",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "18": {
+    "question": "https://qxf2.com/pulls?q=is%3Apr+author%3Aqxf2+archived%3Afalse+is%3Aclosed gives access to the closed pull request then https://qxf2.com/pulls?q=is%3Apr+author%3Aqxf3+archived%3Afalse+is%3Aclosed gives access to qxf4 user\n(a)True \n(b)False \n",
+    "answer": "b",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "19": {
+    "question": "https://news.ycombinator.com/newcomments/?id=250&status=open gives me access to the comment id = 250 under new comments which is open now this gives me access to https://news.ycombinator.com/oldcomments/?id=125&status=closed closed comment with id = 125 in the new section \n(a)True \n(b)False \n",
+    "answer": "b",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "20": {
+    "question": "I am on board card- https://qxf2.com/board/22-jun-2020/287-cassiopeia-22-june-2020? which was created on 22-june-2020, I have created new board card with the name 288-hackthon-15-july-2020, on 15-july-2020 which of the following is correct url to access the card\n(a)https://qxf2.com/b/15-july-2020/288-hackthon-15-july-2020\n(b)https://qxf2.com/board/15-july-2020/288-hackthon-15-july-2020\n(c)https://qxf2.com/board/22-jun-2020/288-hackthon-15-july-2020\n(d)https://qxf2.com/22-jun-2020/288-hackthon-15-july-2020\n",
     "answer": "b",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
