@@ -35,75 +35,81 @@
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
-  "8": {
+  "7": {
     "question": "If https://qxf2.com/search?q=dynamic+table+with+python gives me serach results for dynamic table with python, now I want to serach can't conctat string to byte then which is the correct search string from below-\n(a)https://qxf2.com/search?q=can't+concat+string+to+byte\n(b)https://qxf2.com/search?q=can%27t%20concat%20string%20to%20byte\n(c)Either a or b as both will give same results\n(d)None of the above\n",
     "answer": "b",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
-  "9": {
+  "8": {
     "question": "if https://qxf2.classic.com/home/home.jsp?source=classic gives me access to the classic mode of application how I will access lightening mode of the application \n(a)https://qxf2.lightning.com/home/home.jsp?source=lightning \n(b)https://qxf2.classic.com/home/homehome.jsp?source=lightening (c)https://qxf2.lightening.com/home/homehome.jsp?source=classic\n(d)None of the above\n",
     "answer": "a",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
-  "10": {
+  "9": {
     "question": "I am accessing test environment using https://qxf2/cit-c/webseal.troy.com where cit is component integration,sit is system intgration, oat operation acceptance testing , c is environment used by testing team,d is dev environment, e is uat environment, troy is an application name. Now I want to access athens application on dev environment used for system intgration then how should I access it \n(a)https://qxf2/cit-d/webseal.athens.com \n(b)https://qxf2/sit-d/webseal.troy.com\n(c)https://qxf2/sit-d/webseal.athens.com\n(d)https://qxf2/sit-c/webseal.athens.com\n",
     "answer": "c",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
-  "11": {
+  "10": {
     "question": "I have 20 issues per page and I access first 20 issues using https://qxf2.com/manual/qxf2/qxf2-page-object-model/issues?source=app&step=20 now I want access issues from 60 to 80 quickly, which link I should select \n(a)https://qxf2.com/manual/qxf2-page-object-model/issues?source=app&step=60 \n(b)https://qxf2.com/manual/qxf2/qxf2-page-object-model/issues?source=app&step=60\n(c)https://qxf2.com/manual/qxf2/issues?source=app&step=60\n(d)https://qxf2.com/manual/qxf2/qxf2-page-object-model/issues?source=app&step=60 to 80\n",
     "answer": "b",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
-  "12": {
+  "11": {
     "question": "I am accessing blogs of category continious testing accessing https://qxf2.com/category/blogs/continuous-testing/ now, I want to access blogs from category devops I should used which of the following: \n(a)https://qxf2.com/category/blogs/devops \n(b)https://qxf2.com/blogs/category/devops\n(c)https://qxf2.com/devops/blogs/category\n(d)https://qxf2.com/blogs/devops\n",
     "answer": "a",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
-  "13": {
+  "12": {
     "question": "If I access group1 meeting using http://qxf2.do/qxf2-group-1 how can I access group 3 meeting then- \n(a)http://qxf2.do/qxf3-group-3 \n(b)http://qxf2.do/qxf2-group-3\n(c)http://qxf3.do/qxf2-group-1\n(d)http://qxf1.do/qxf2-group-3\n",
     "answer": "b",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
-  "14": {
+  "13": {
     "question": "If I access, how to run tests as -https://qxf2.com/qxf2/qxf2-page-object-model/wiki/Quick-Start-Guide#how-to-run-tests, now I want to access Gmail under Utilities at wiki root, how I will access the same \n(a)https://qxf2.com/qxf2/qxf2-page-object-model/Utilities#gmails \n(b)https://qxf2.com/qxf2/qxf2-page-object-model/Utilities/wiki#gmail\n(c)https://qxf2.com/qxf2/qxf2-page-object-model/wiki/gmail#Utilities\n(d)https://qxf2.com/qxf2/qxf2-page-object-model/wiki/Utilities#gmail\n",
     "answer": "d",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
-  "15": {
+  "14": {
     "question": "https://qxf2.com/quizes/py_final-quiz/?dttype=viewquiz gives me view access to the particular quiz now I want to view certificates final_certificate, how should I access it? \n(a)https://qxf2.com/quizes/py_final-quiz/?dttype=viewcertificate \n(b)https://qxf2.com/certificates/final_certificate/?dttype=viewcertificate \n(c)https://qxf2.com/quizes/final_certificate/?dttype=viewcertificate\n(d) None of the above\n",
     "answer": "b",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
-  "16": {
+  "15": {
     "question": "I am accessing chess articless using https://www.qxf2.in/popular/sports/ch:chess if I want to access articles on cricket, I should access it as- \n(a)www.qxf2.in/popular/sports/cricket \n(b)https://www.qxf2.in/popular/sports/cr:cricket \n(c)https://www.qxf2.in/sports/cr:cricket\n(d) None of the above\n",
     "answer": "b",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
-  "17": {
+  "16": {
     "question": "This https://www.qxf2.in/news/t:education/q:enginnering/computerscience gives access on the news on computer science, now if I want to access news in F1 which is motorport in sports category, how should I access it-  \n(a)https://www.qxf2.in/news/t:f1/q:motorsports/sports \n(b)https://www.qxf2.in/news/t:sports/q:f1/motorsports\n(c)None of the above\n(d)https://www.qxf2.in/news/t:sports/q:motorsports/f1\n",
     "answer": "d",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
-  "18": {
+  "17": {
     "question": "https://qxf2.com/pulls?q=is%3Apr+author%3Aqxf2+archived%3Afalse+is%3Aclosed gives access to the closed pull request then https://qxf2.com/pulls?q=is%3Apr+author%3Aqxf3+archived%3Afalse+is%3Aclosed gives access to qxf4 user\n(a)True \n(b)False \n",
     "answer": "b",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
-  "19": {
+  "18": {
     "question": "https://news.ycombinator.com/newcomments/?id=250&status=open gives me access to the comment id = 250 under new comments which is open now this gives me access to https://news.ycombinator.com/oldcomments/?id=125&status=closed closed comment with id = 125 in the new section \n(a)True \n(b)False \n",
     "answer": "b",
+    "more_info": "observe  URL's carefully",
+    "user_response": "None"
+  },
+  "19": {
+    "question": "https://code.visualstudio.com/api/language-extensions/programmatic-language-features gives me access to programmatic language extension, does https://code.visualstudio.com/api/extension-guides/color-theme give me access to color theme\n(a)True \n(b)False \n",
+    "answer": "a",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
