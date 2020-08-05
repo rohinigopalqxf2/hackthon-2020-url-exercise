@@ -84,7 +84,7 @@
     "user_response": "None"
   },
   "16": {
-    "question": "I am accessing chess articless using https://www.qxf2.in/popular/sports/ch:chess if I want to access articles on cricket, I should access it as- \n (a)www.qxf2.in/popular/sports/cricket \n(b)https://www.qxf2.in/popular/sports/cr:cricket \n(c)https://www.qxf2.in/sports/cr:cricket\n(d) None of the above\n",
+    "question": "I am accessing chess articless using https://www.qxf2.in/popular/sports/ch:chess if I want to access articles on cricket, I should access it as- \n(a)www.qxf2.in/popular/sports/cricket \n(b)https://www.qxf2.in/popular/sports/cr:cricket \n(c)https://www.qxf2.in/sports/cr:cricket\n(d) None of the above\n",
     "answer": "b",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
