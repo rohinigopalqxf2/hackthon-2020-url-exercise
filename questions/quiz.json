@@ -54,7 +54,7 @@
     "user_response": "None"
   },
   "10": {
-    "question": "I have 20 issues per page and I access first 20 issues using https://qxf2.com/manual/qxf2/qxf2-page-object-model/issues?source=app&step=20 now I want access issues from 60 to 80 quickly, which link I should select \n(a)https://qxf2.com/manual/qxf2-page-object-model/issues?source=app&step=60 \n(b)https://qxf2.com/manual/qxf2/qxf2-page-object-model/issues?source=app&step=60\n(c)https://qxf2.com/manual/qxf2/issues?source=app&step=60\n(d)https://qxf2.com/manual/qxf2/qxf2-page-object-model/issues?source=app&step=60 to 80\n",
+    "question": "I have 20 issues per page and I access first 20 issues using https://qxf2.com/manual/qxf2/qxf2-page-object-model/issues?source=app&step=20 now I want access issues from 60 to 80 quickly, which link I should select \n(a)https://qxf2.com/manual/qxf2-page-object-model/issues?source=app&step=60 \n(b)https://qxf2.com/manual/qxf2/qxf2-page-object-model/issues?source=app&step=60\n(c)https://qxf2.com/manual/qxf2/issues?source=app&step=80\n(d)https://qxf2.com/manual/qxf2/qxf2-page-object-model/issues?source=app&step=60 to 80\n",
     "answer": "b",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
@@ -102,13 +102,13 @@
     "user_response": "None"
   },
   "18": {
-    "question": "https://news.ycombinator.com/newcomments/?id=250&status=open gives me access to the comment id = 250 under new comments which is open now this gives me access to https://news.ycombinator.com/oldcomments/?id=125&status=closed closed comment with id = 125 in the new section \n(a)True \n(b)False \n",
+    "question": "https://news.qxf2.com/newcomments/?id=250&status=open gives me access to the comment id = 250 under new comments which is open now this gives me access to https://news.qxf2.com/oldcomments/?id=125&status=closed closed comment with id = 125 in the new section \n(a)True \n(b)False \n",
     "answer": "b",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
   },
   "19": {
-    "question": "https://code.visualstudio.com/api/language-extensions/programmatic-language-features gives me access to programmatic language extension, does https://code.visualstudio.com/api/extension-guides/color-theme give me access to color theme\n(a)True \n(b)False \n",
+    "question": "https://code.qxf2.com/api/language-extensions/programmatic-language-features gives me access to programmatic language extension, does https://code.qxf2.com/api/extension-guides/color-theme give me access to color theme\n(a)True \n(b)False \n",
     "answer": "a",
     "more_info": "observe  URL's carefully",
     "user_response": "None"
